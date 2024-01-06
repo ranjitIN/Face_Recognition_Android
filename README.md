@@ -9,9 +9,7 @@ A FaceRecognition  Android application designed for real-time face recognition u
 
 - Real-time Recognition: Achieves fast and accurate face recognition in real-time, enabling users to seamlessly unlock their devices, access secure areas, or personalize user experiences.
 
-<p align="center">
- <center><img src="files/diagram.png"  alt="Face Recognition" width="100%"></a></center>
-</p>
+<img src="files/diagram.png"  alt="Face Recognition">
 
 ## - Built With 🛠
 - [CameraX](https://developer.android.com/jetpack/androidx/releases/camera) - that makes it easier to add camera capabilities to your app.
